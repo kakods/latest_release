@@ -3,7 +3,7 @@ An attempt to get the latest release version of any repo.
 
 ## prerequisites
 Ensure that you have python>=3.6.9.<br/>
-Clone this repo, and run `pip install -r requirements.txt` from the repo root, provided that pip is from python>=3.6.9 in your environment :)
+Clone this repo and run `pip install -r requirements.txt` from the repo root, provided that pip is from python>=3.6.9 :)
 
 ## usage
 ```
@@ -17,4 +17,4 @@ displayed
 ```
 v1.8.1
 ```
-at the time this was written
+at the time this was written.
