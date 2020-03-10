@@ -9,7 +9,7 @@ Clone this repo and run `pip install -r requirements.txt` from the repo root, pr
 ```
 python3 get_latest_release.py --repo=<repo_name>
 ```
-for example,
+### example
 ```
 python3 get_latest_release.py --repo=kubernetes/minikube
 ```
